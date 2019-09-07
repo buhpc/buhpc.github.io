@@ -1051,8 +1051,10 @@ input.text:focus {
 	left: 15px;
 }
 
+
 .responsiveCal {
- 
+	
+
 	position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
 	 
 	}

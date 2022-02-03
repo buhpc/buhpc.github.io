@@ -2217,6 +2217,11 @@ label {
 	height: 26px;
 }
 
+.icon-discrod svg {
+	width: 32px;
+	height: 26px;
+}
+
 .icon-linkedin svg {
 	width: 32px;
 	height: 26px;
@@ -2968,6 +2973,10 @@ ol.tos li {
 	background: #3660A0;
 }
 .soc_icons ul li a i.fa-twitter {
+	background: #2CAAE1;
+}
+
+.soc_icons ul li a i.fa-discord {
 	background: #2CAAE1;
 }
 .soc_icons ul li a i.fa-google-plus {

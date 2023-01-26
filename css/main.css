@@ -809,6 +809,10 @@ input.text:focus {
 	height: 100%;
 }
 
+.half-height {
+	height: 50%;
+}
+
 .header {
 	position: relative;
 	padding: 20px 0;

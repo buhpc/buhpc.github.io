@@ -810,7 +810,7 @@ input.text:focus {
 }
 
 .half-height {
-	height: 50%;
+	height: 40%;
 }
 
 .header {
@@ -984,7 +984,7 @@ input.text:focus {
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: #fff;
-	height: 50%;
+	height: 40%;
 	padding: 0;
 	border: 0;
 	text-align: left;
